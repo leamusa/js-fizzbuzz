@@ -31,3 +31,10 @@ Apply different style to the elements added to the DOM in the BONUS 1,depending 
 3. use if to calculate multiples of 5 (also) 3
 4. ( only) use else if for mult of 3 with vali
 5. ( only) use else if for mult of 5
+
+# BONUS 1
+
+1. Create a contenitor in index
+2. create the list first, and then append it to an existing element. use the createElement() method.
+3. After that, you can use the innerHTML
+   then the append() method to attach the new element to the DOM.
