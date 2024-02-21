@@ -4,8 +4,8 @@
 
 Write a program to print in console numbers from 1 to 100 whit these rules:
 
-1.  Only with multiples of 3 print “Fizz” instead of the numbers
-2.  Also with numbers multiples of 3 and 5 print “FizzBuzz”.
+1.  (Only) with multiples of 3 print “Fizz” instead of the numbers
+2.  (Also) with numbers multiples of 3 and 5 print “FizzBuzz”.
 
 # Question
 
@@ -24,7 +24,10 @@ Apply different style to the elements added to the DOM in the BONUS 1,depending 
 
 # Tools
 
-1. write in console numbers from 1 to 100; for (let)
-2. ElementList.InnerHTML
-3. Use console.log() to print in console
-4. use if to calculate multiples of 5 and 3
+# First ex
+
+1. write in console numbers from 1 to 100; for (let i=)
+2. Use console.log() to print in console
+3. use if to calculate multiples of 5 (also) 3
+4. ( only) use else if for mult of 3 with vali
+5. ( only) use else if for mult of 4
