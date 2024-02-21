@@ -7,7 +7,7 @@ for (let i = 1; i <= 100; i++) {
   let li = document.createElement("li");
 
   if (i % 3 == 0 && i % 5 == 0) {
-    console.log("FizzBUzz");
+    console.log("FizzBuzz");
     li.innerHTML = "Fizz Buzz";
     li.className = "fizz_buzz";
   } else if (i % 5 == 0) {
