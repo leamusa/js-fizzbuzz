@@ -27,3 +27,4 @@ Apply different style to the elements added to the DOM in the BONUS 1,depending 
 1. write in console numbers from 1 to 100; for (let)
 2. ElementList.InnerHTML
 3. Use console.log() to print in console
+4. use if to calculate multiples of 5 and 3
