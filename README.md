@@ -25,5 +25,5 @@ Apply different style to the elements added to the DOM in the BONUS 1,depending 
 # Tools
 
 1. write in console numbers from 1 to 100; for (let)
-2. Use the operator murk up and making a list ElementList.InnerHTML
+2. ElementList.InnerHTML
 3. Use console.log() to print in console

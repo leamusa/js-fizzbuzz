@@ -1,4 +1,5 @@
-for {(let i= 1; i < 100, i ++)
-    log
-}
+var i;
 
+for (i = 1; i <= 100; i++) {
+  console.log(i + "FizzBuzz");
+}
