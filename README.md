@@ -16,7 +16,7 @@ Try to imagine the operations you intent to make.
 
 # BONUS 1
 
-Create a container in the DOM ,adding throut the funcion append() an element/ number/string corrept to show
+Create a container in the DOM ,adding through the funcion append() an element/ number/string corrept to show
 
 # BONUS 2
 
@@ -30,4 +30,4 @@ Apply different style to the elements added to the DOM in the BONUS 1,depending 
 2. Use console.log() to print in console
 3. use if to calculate multiples of 5 (also) 3
 4. ( only) use else if for mult of 3 with vali
-5. ( only) use else if for mult of 4
+5. ( only) use else if for mult of 5
