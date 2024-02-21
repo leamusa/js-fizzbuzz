@@ -1,6 +1,7 @@
 body {
   background-color: #d889a6;
-  font-family: "Arial", sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 #container {
@@ -14,7 +15,7 @@ body {
 h1 {
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  color: #ffeded;
+  color: #fff4fe;
   border-radius: 20px;
 }
 .fizz-list {
@@ -22,6 +23,7 @@ h1 {
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 1rem;
+  color: #fff;
 }
 
 .fizz-list > li {
@@ -35,8 +37,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 5px 5px 5px rgba(158, 8, 8, 0.5);
-  line-height: 200px;
+  box-shadow: 2px 2px 5px rgba(158, 8, 8, 0.5);
 }
 
 .fizz {
@@ -50,7 +51,7 @@ h1 {
 }
 
 .fizz_buzz {
-  color: #df5b87;
-  background-color: #00aeff;
+  color: #dacdd1;
+  background-color: #ff0088;
   text-align: center;
 }
